@@ -1,0 +1,10 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "root@123",
+    "database": "api_car",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "port":5432
+  }
+}
